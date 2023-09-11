@@ -10,7 +10,7 @@ function ProjectsTab() {
                 <h2>Projects</h2>
                 <div className="project-wrapper">
                     {/* Loops through the projects.json object & rendering each project dinamically */}
-                    {Projects.map( p => <Projects projects={p} key={p.id} screenshot={p.screenshot} title={p.title}/>)}
+                    {Projects.map( p => <Projects projects={p} key={p.id}/>)}
                 </div>
             </div>
         </div>
