@@ -1,7 +1,8 @@
 import React from 'react'
 import "./Projects.css";
+import projects from "../Data/projects.json"
 
-function Projects({projects}) {
+function Projects({}) {
 
     return(
         <div className='project-container'>

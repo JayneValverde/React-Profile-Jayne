@@ -1,9 +1,8 @@
 import React from "react";
 import ".Projects.css";
 import Projects from "./Projects";
-import projects from "../Data/projects.json"
 
-function Projects() {
+function ProjectsTab() {
 
     return(
         <div className="projects-container">
@@ -11,11 +10,11 @@ function Projects() {
                 <h2>Projects</h2>
                 <div className="project-wrapper">
                     {/* Loops through the projects.json object & rendering each project dinamically */}
-                    {projects.map( p => <Projects projects={p} key={p.id}  />)}
+                    {Projects.map( p => <Projects projects={p} key={p.id} screenshot={p.screenshot} title={p.title}/>)}
                 </div>
             </div>
         </div>
     )
 }
 
-export default Projects
+export default ProjectsTab
