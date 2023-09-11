@@ -1,6 +1,5 @@
 import React from "react";
 import "./Homepage.css";
-import { NavLink } from 'react-router-dom'
 
 function Homepage() {
     return (
