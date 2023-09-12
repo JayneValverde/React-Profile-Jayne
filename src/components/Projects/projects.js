@@ -55,6 +55,7 @@ function Project(props) {
     const linkDeployment = currentProject.linkDeployment; 
     const linkRepository = currentProject.linkRepository;
 
+
     return (
         <Card style={{width: "18rem"}}>
             <Card.Img
