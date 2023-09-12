@@ -46,9 +46,15 @@ h4 {
     display: flex; 
     justify-self: center;
     flex-direction: column;
+    overflow: scroll;
+    background-color: var(--color-secondary-dark);
+    width: 300px;
+    height: 225px;
+
 }
 
 .list-inline-item {
+    
     text-align: center;
     list-style: none;
     padding: 5px;
