@@ -3,7 +3,7 @@ import './global-styles/global.css';
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Homepage from './components/Homepage/Homepage';
-import Projects from './components/Projects/projects'
+import Portfolio from './components/Portfolio/Portfolio'
 import Contact from './components/Contact/Contact';
 import Resume from './components/Resume/Resume';
 
@@ -18,7 +18,7 @@ function App() {
         
         <Routes>
           <Route path='/' element={<Homepage />} />
-          <Route path='/projects' element={<Projects />} />
+          <Route path='/Portfolio' element={<Portfolio />} />
           <Route path='/Contact' element={<Contact />} />
           <Route path='/Resume' element={<Resume />} />
         </Routes>

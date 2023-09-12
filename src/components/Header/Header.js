@@ -10,7 +10,7 @@ function Header() {
             <nav className="nav-bar"> 
                 <ul>
                     <li><NavLink to='/'>Homepage</NavLink></li>
-                    <li><NavLink to='/projects'>Projects</NavLink></li>
+                    <li><NavLink to='/portfolio'>Portfolio</NavLink></li>
                     <li><NavLink to='/contact'>Contact Me</NavLink></li>
                     <li><NavLink to='/Resume'>Resume</NavLink></li>
 
