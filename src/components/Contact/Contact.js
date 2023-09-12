@@ -43,12 +43,12 @@ const Contact = () => {
         <section id="contact">
             <div className="container">
                 <div className="row">
-                        <h1 className='Contact' style={{ fontSize: "4rem" }}>Contact</h1>
+                        <h1 className='Contact' style={{ fontSize: "3.8rem" }}>CONTACT</h1>
 
                         <form onSubmit={handleSubmit}>
 
                             <div className="form-group">
-                                <label htmlFor="name">Name *</label>
+                                <label htmlFor="name">Name </label>
                                 <input
                                     type="text"
                                     className={`form-control ${nameError ? 'is-invalid' : ''}`}
@@ -62,7 +62,7 @@ const Contact = () => {
                             </div>
 
                             <div className="form-group">
-                                <label htmlFor="email">Email address *</label>
+                                <label htmlFor="email">Email address </label>
                                 <input
                                     type="email"
                                     className={`form-control ${emailError ? 'is-invalid' : ''}`}
@@ -76,7 +76,7 @@ const Contact = () => {
                             </div>
 
                             <div className="form-group">
-                                <label htmlFor="message">Message *</label>
+                                <label htmlFor="message">Message </label>
                                 <textarea
                                     className={`form-control ${messageError ? 'is-invalid' : ''}`}
                                     id="message"
@@ -88,7 +88,7 @@ const Contact = () => {
                                     <div className="invalid-feedback">Please enter a message</div>
                                 )}
                             </div>
-                            
+
                             <button type="submit" className="btn btn-primary">
                                 Submit
                             </button>

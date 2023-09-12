@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    padding: 0;
+}
+
+.resume-row {
+    display: flex;
+    justify-self: center;
+    margin-bottom: 25px;
+}
+
+.resume-download {
+    background-color: var(--color-green);
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: auto
+}
+
+a {
+    color: var(--color-black);
+    text-decoration: underline;
+}
+
+.skills-row {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-skills li {
+    border-radius: 0px; 
+    display: inline-block;
+    margin-bottom: 3px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.list-inline {
+    display: flex; 
+    justify-self: center;
+    flex-direction: column;
+}
+
+.list-inline-item {
+    text-align: center;
+    list-style: none;
+    padding: 5px;
+}

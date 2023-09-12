@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import Homepage from './components/Homepage/Homepage';
 import Projects from './components/Projects/projects'
 import Contact from './components/Contact/Contact';
+import Resume from './components/Resume/Resume';
 
 
 
@@ -19,6 +20,7 @@ function App() {
           <Route path='/' element={<Homepage />} />
           <Route path='/projects' element={<Projects />} />
           <Route path='/Contact' element={<Contact />} />
+          <Route path='/Resume' element={<Resume />} />
         </Routes>
       
       </Router>
