@@ -54,9 +54,9 @@ function Portfolio() {
             <div className="title">
                 <h1 className="page-header" style={{ fontSize: "3.8rem" }}>PORTFOLIO</h1>
             </div>
-            <div>
-
-                <ul className="flex-row mobil-row">
+            
+            <div className="tabs">
+                <ul className="card">
                     <li className="padding">
                         <Project projects={projects[0]}></Project>
                     </li>

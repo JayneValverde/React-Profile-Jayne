@@ -48,8 +48,8 @@ h4 {
     flex-direction: column;
     overflow: scroll;
     background-color: var(--color-secondary-dark);
-    width: 300px;
-    height: 225px;
+    width: 400px;
+    height: 200px;
 
 }
 

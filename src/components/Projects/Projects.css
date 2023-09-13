@@ -1,6 +1,20 @@
-.project-container {
+.card-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-body {
+    margin: 2rem;
+}
+
+.project-container {
+    /* display: flex;
+    justify-content:s; */
     height: 50px;
     width: 50x;
     margin: auto;
@@ -55,6 +69,7 @@
     bottom: 0;
     left: 0;
 }
+
 
 @media only screen and (min-width: 400px){
     .project-container {
