@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Profile-Jayne/static/css/main.113b69a0.css",
+    "main.js": "/React-Profile-Jayne/static/js/main.fb92e8f6.js",
+    "static/media/Jean-paul.png": "/React-Profile-Jayne/static/media/Jean-paul.fb6aad300f989f4318ce.png",
+    "static/media/YassFlix_1.png": "/React-Profile-Jayne/static/media/YassFlix_1.9a8a614f153155da78c6.png",
+    "static/media/SmogPassword_1.png": "/React-Profile-Jayne/static/media/SmogPassword_1.69837b540bfac1662665.png",
+    "static/media/Scheduler_1.png": "/React-Profile-Jayne/static/media/Scheduler_1.e7df2ade0fd9e1ef2644.png",
+    "static/media/PocketChange_1.png": "/React-Profile-Jayne/static/media/PocketChange_1.c30bf5478068fc10e244.png",
+    "static/media/TimedQuiz_1.png": "/React-Profile-Jayne/static/media/TimedQuiz_1.c69245428248fa39421c.png",
+    "static/media/NoteTaking_1.png": "/React-Profile-Jayne/static/media/NoteTaking_1.075d43bc837cae6653ad.png",
+    "index.html": "/React-Profile-Jayne/index.html",
+    "main.113b69a0.css.map": "/React-Profile-Jayne/static/css/main.113b69a0.css.map",
+    "main.fb92e8f6.js.map": "/React-Profile-Jayne/static/js/main.fb92e8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.113b69a0.css",
+    "static/js/main.fb92e8f6.js"
+  ]
+}
