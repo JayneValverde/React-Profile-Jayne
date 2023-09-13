@@ -10,42 +10,42 @@ function Portfolio() {
             "description": "An Application that allows users to search for movies & find out where to stream them ",
             "linkDeployment": "https://bosalinas.github.io/ShowBox/",
             "linkRepository": "https://github.com/bosalinas/ShowBox",
-            "image": "YassFlix.png"
+            "image": "YassFlix_1.png"
         },
         {
             "title": "Timed JavaScript-Quiz",
             "description": "A timed quiz made with JavaScript ",
             "linkDeployment": "https://jaynevalverde.github.io/JavaScript-Quiz/",
             "linkRepository": "https://github.com/JayneValverde/JavaScript-Quiz",
-            "image": "Timed-quiz.png"
+            "image": "TimedQuiz_1.png"
         },
         {
             "title": "Pocket Change",
             "description": "A money budgeting app to keep track of expenses - Powered by Sequelize & MySql",
             "linkDeployment": "https://powerful-fjord-96372-1e2a1c430418.herokuapp.com/",
             "linkRepository": "https://github.com/Vortexwarrior/pocket-chanj",
-            "image": "PocketChange.png"
+            "image": "PocketChange_1.png"
         },
         {
-            "title": "Smoog Password Generator",
+            "title": "Password Generator",
             "description": "Simple Password Generator",
             "linkDeployment": "https://jaynevalverde.github.io/smog-password-generator/",
             "linkRepository": "https://github.com/JayneValverde/smog-password-generator",
-            "image": "SmogPassword.png"
+            "image": "SmogPassword_1.png"
         },
         {
             "title": "Work Day Scheduler",
             "description": "Simple calender application that allows a user to save events for each hour of a typical workday",
             "linkDeployment": "https://jaynevalverde.github.io/Jaynes-work-day-calander/",
             "linkRepository": "https://github.com/JayneValverde/Jaynes-work-day-calander",
-            "image": "Scheduler.png" 
+            "image": "Scheduler_1.png" 
         },
         {
-            "title": "Work Day Scheduler",
+            "title": "Note Taking App",
             "description": "A note taking app that allows users to write and save notes - powered by express.js",
             "linkDeployment": "https://note-taking-app-jv-aaa688d69215.herokuapp.com/notes",
             "linkRepository": "https://github.com/JayneValverde/Note-taking-app",
-            "image": "NoteTaking.png"
+            "image": "NoteTaking_1.png"
         },
     ];
     

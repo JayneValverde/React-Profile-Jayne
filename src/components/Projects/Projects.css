@@ -9,7 +9,17 @@
 }
 
 .card-body {
-    margin: 2rem;
+    margin: 1rem;
+}
+
+.card-title {
+    padding: 0; 
+    margin-bottom: .7rem;
+}
+
+.card-text {
+    padding: 0;
+    margin-bottom: .9rem;
 }
 
 .project-container {

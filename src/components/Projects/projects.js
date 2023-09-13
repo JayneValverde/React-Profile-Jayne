@@ -24,14 +24,15 @@ function Project(props) {
             />
             <div className='center'>
                 <Card.Body>
-                    <Card.Title className='card-title' style={{ fontSize: "2rem" }} >{title}</Card.Title>
+                    <Card.Title className='card-title' style={{ fontSize: "1.5rem" }} >{title}</Card.Title>
                     <Card.Text className='card-text'>{description}</Card.Text>
                     <Card.Link href={linkDeployment} target='_blank' className='card-link'>
-                        Link
+                        Deployed Link
                     </Card.Link>
                     <br></br>
+                    <br></br>
                     <Card.Link href={linkRepository} target='_blank' className='card-link'>
-                        GitHub
+                        GitHub Link
                     </Card.Link>
                 </Card.Body>
             </div>
