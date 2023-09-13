@@ -1,0 +1,28 @@
+footer {
+    width: 100%;
+    background-color: var(--color-secondary-dark);
+    color: var(--color-black);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 1rem;
+}
+
+.social-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer svg {
+    color: var(--color-green);
+    width: fit-content;
+    margin: 1rem;
+}
+
+footer p {
+    font-size: .9rem;
+}
+
